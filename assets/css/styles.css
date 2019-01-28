@@ -1,0 +1,8 @@
+html,body,.bg{
+  background-image: url(/assets/media/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#shrink{
+  
+}
